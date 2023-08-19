@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo Henriquez</h1>
-<h3 align="center">Passionate Computer Engineering student aiming to specialize in Java and C#, with experience in .NET and backend development. Enjoys challenges and continuously learning from new technologies. Actively working on robust and scalable application projects, and eager to collaborate and share knowledge with the community.</h3>
+<h3 align="justify">Passionate Computer Engineering student aiming to specialize in Java and C#, with experience in .NET and backend development. Enjoys challenges and continuously learning from new technologies. Actively working on robust and scalable application projects, and eager to collaborate and share knowledge with the community.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
