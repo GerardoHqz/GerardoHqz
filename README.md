@@ -44,11 +44,11 @@
 
 
  <a href="https://www.linkedin.com/in/gerardo-henriquez-68a883286/?locale=en_US" target="_blank">
-<img width="5%" src="/Img/linkedin.png" alt=linkedin style="margin-bottom: 5px;" />
+<img width="5%" src="/Img/linkedin.png" alt=linkedin style="margin-bottom: 5px; margin-right: 10px;" />
 </a>
   
 <a href="mailto:gerardohenriquez.sv@gmail.com" target="_blank">
-<img width="5%" src="/Img/gmail.png" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px;" />
+<img width="5%" src="/Img/gmail.png" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px; margin-right: 10px;" />
 </a>
 
 <a href="https://www.instagram.com/gerardohqz/" target="_blank">
