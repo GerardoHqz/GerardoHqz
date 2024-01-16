@@ -12,17 +12,18 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left" style="font-size: 24px;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
+<p align="left" style="font-size: 32px;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
 
 <!--End Intro-->
 
 ---
 <br />
+<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
+<img width="550"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
 </p>
 <br />
 
@@ -40,16 +41,17 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+ <a href="https://www.flaticon.com/free-icons/linkedin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin Linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:gerardohenriquez.sv@gmail.com" target="_blank">
+<img src="https://www.flaticon.com/free-icons/gmail" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=gerardohqz Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/gerardohqz/" target="_blank">
+<img src=https://www.flaticon.com/free-icons/instagram-logo alt=intagram_icon Instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
