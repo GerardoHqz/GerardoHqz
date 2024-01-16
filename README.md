@@ -42,16 +42,17 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
- <a href="https://www.flaticon.com/free-icons/linkedin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin Linkedin style="margin-bottom: 5px;" />
+
+ <a href="https://www.linkedin.com/in/gerardo-henriquez-68a883286/?locale=en_US" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:gerardohenriquez.sv@gmail.com" target="_blank">
-<img src="https://www.flaticon.com/free-icons/gmail" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gerardohenriquez.sv@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/gerardohqz/" target="_blank">
-<img src=https://www.flaticon.com/free-icons/instagram-logo alt=intagram_icon Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=gerardohqz Instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
