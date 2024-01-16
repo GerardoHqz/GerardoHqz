@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left" style="font-size: 5em;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
+<p align="left" style="font-size: 120%;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
 
 <!--End Intro-->
 
