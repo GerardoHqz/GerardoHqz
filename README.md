@@ -1,5 +1,5 @@
 <!--Banner-->
-![Gerardohqz Banner Image](/Img/banner2.png)
+![Gerardohqz Banner Image](/Img/banner3.png)
 
 <!--Night Owl image-->
 <div>
