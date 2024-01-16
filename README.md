@@ -31,10 +31,9 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
+<div align="center">
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
-<p align="center">
-    ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
-</p>
+</div>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
