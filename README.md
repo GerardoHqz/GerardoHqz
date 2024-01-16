@@ -1,9 +1,9 @@
 <!--Banner-->
-![Gerardohqz Banner Image](/Img/banner3.png)
+![Gerardohqz Banner Image](/Img/banner2.png)
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="38%" src="/Img/profile.png">
+  <img align="right" width="38%" src="/Img/profile2.png">
 </div>
 
 <!--Header Name-->
