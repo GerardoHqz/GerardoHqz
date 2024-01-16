@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'M Gerar! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="34"/> ɪ'M Gerar! 
 *I didn't work without coffee*
 <br /> 
 
@@ -23,7 +23,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="550"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
+<img width="500"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
 </p>
 <br />
 
