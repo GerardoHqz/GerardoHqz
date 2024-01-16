@@ -44,7 +44,7 @@
 
 
  <a href="https://www.linkedin.com/in/gerardo-henriquez-68a883286/?locale=en_US" target="_blank">
-<img src=https://www.flaticon.com/free-icons/linkedin alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://www.flaticon.com/free-icons/linkedin" alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:gerardohenriquez.sv@gmail.com" target="_blank">
