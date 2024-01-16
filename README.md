@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="/Img/profile.png">
+  <img align="right" width="38%" src="/Img/profile.png">
 </div>
 
 <!--Header Name-->
@@ -21,7 +21,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">✨Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs✨</h2> 
 <p align="center">
 <img width="500"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
 </p>
@@ -31,9 +31,9 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
+<h4 align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
+</h4>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
