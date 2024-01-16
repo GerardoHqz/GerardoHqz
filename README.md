@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<h3 align="left">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </h3>
+<p align="left" style="font-size: 16px;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
 
 <!--End Intro-->
 
@@ -22,7 +22,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular&perline=12"  />
+<img width="800px"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
 </p>
 <br />
 
