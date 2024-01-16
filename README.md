@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left" style="font-size: 32px;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </p>
+<h4 align="left" style="font-size: 32px;">Hello!✨ I'm a young developer eager to learn and enhance my skills. I specialize in backend development, with Java as my primary language, complemented by knowledge of Node.js and .NET. I enjoy teamwork and collaborating on exciting projects. Let's code 💻🚀 </h4>
 
 <!--End Intro-->
 
@@ -31,9 +31,9 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<h4 align="center">
+<p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</h4>
+</p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
