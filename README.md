@@ -23,7 +23,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">✨Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs✨</h2> 
 <p align="center">
-<img width="500"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,nodejs,react,angular,linux&perline=8"  />
+<img width="500"  src="https://skillicons.dev/icons?i=java,cs,go,spring,nodejs,dotnet,mysql,postgres,sqlite,mongodb,git,docker,js,react,angular,linux&perline=8"  />
 </p>
 <br />
 
